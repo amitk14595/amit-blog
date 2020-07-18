@@ -563,7 +563,7 @@ a.sidebar-nav-item:focus {
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover;
     color: black !important;
-    height: 50vh;
+    height: 60vh;
 }
 
 .section{
