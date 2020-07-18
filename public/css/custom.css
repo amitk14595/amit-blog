@@ -560,7 +560,6 @@ a.sidebar-nav-item:focus {
 #pages{
     background: var(--dark-color);
     background: linear-gradient(45deg, var(--dark-color) 0%, #5759fd 100%);
-    /*background-image: url("/public/images/postbanner3.jpg");*/
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover;
     color: black !important;
