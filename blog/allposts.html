@@ -11,7 +11,7 @@ tagline: Here all the blogs are listed in date wise
   <article>
   	<div class="section-title text-center mb-2">
     <h2>
-      	<a href="{{ post.url }}"> 
+      	<a href="{{ post.url | prepend:site.baseurl}}"> 
         {{ post.title }}
       </a>
     </h2>	
