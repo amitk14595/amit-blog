@@ -12,10 +12,10 @@ title:               AMIT BLOGS
 tagline:             ''
 description:         ''
 url:                 
-baseurl:             '/amit-blog/'
+baseurl:             'amit-blog'
 
 paginate:            6
-paginate_path:    /blog/page:num/
+paginate_path:      /blog/page:num/
 
 
 
