@@ -559,11 +559,11 @@ a.sidebar-nav-item:focus {
 
 #pages{
     background: var(--dark-color);
-    background: linear-gradient(45deg, var(--dark-color) 0%, #5759fd 100%);
+    background: linear-gradient(45deg, #374651 0%, #059ebf 100%);
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover;
     color: black !important;
-    height: 60vh;
+    height: 50vh;
 }
 
 .section{
