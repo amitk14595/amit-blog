@@ -3,7 +3,8 @@ layout: post
 title:  "CCNP Syllabus"
 comments: true
 date:   2021-08-25 02:26:02 +0530
-tags: [ccnp],[routing],[switching]
+image: /public/img/blog-images/python.png
+tags: [ccnp,routing,switching]
 ---
 
 ***Cisco Certified Network Professional :- Routing & Switching***
