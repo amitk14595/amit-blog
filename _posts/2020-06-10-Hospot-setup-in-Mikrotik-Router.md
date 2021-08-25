@@ -2,8 +2,8 @@
 layout: post
 title: Hotspot Setup in Mikrotik Router
 comments: true
-description: My views on why digital presence matters the most for your career
-keywords: omkar pathak, blog, digital presence, why is digital presence important today, importance of digital presene, importance of digital presence for career, career
+description: Configuration of Mikrotik
+keywords: hotspot
 image: /public/img/blog-images/python.png
 tags: [jekyll, python]
 ---
