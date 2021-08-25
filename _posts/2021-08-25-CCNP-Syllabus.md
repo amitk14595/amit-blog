@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "CCNP Syllabus"
+title: CCNP Syllabus
 comments: true
-date:   2021-08-25 02:26:02 +0530
+description: Configuration of Mikrotik
+keywords: switching
 image: /public/img/blog-images/python.png
-tags: [ccnp,routing,switching]
+tags: [ccnp, switching, routing]
 ---
+
 
 ***Cisco Certified Network Professional :- Routing & Switching***
 
